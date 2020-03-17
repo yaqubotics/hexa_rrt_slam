@@ -16,3 +16,5 @@ roslaunch px4_simulation_stack hexa_j153.launch
 ```
 rosrun obstacle_avoidance obstacle_avoidance.py 1
 ```
+
+[![Watch the video](https://img.youtube.com/vi/PnuEB_RsXnw/maxresdefault.jpg)](https://youtu.be/PnuEB_RsXnw)
